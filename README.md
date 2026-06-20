@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Kanwal 👋
 
-<!--
-**AI-100-cell/AI-100-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Agentic AI Engineer — I build autonomous, multi-agent systems that do real work.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Focused on agentic AI: LangGraph, multi-agent orchestration, LLM tool-use
+🛠️ Python · LangChain · OpenAI · Streamlit · scikit-learn
+🌱 Currently building agent systems that automate business workflows
+💼 Open to AI Engineer / ML Engineer opportunities
+📫 LinkedIn
+
+
+🚀 Featured project
+
+IT Solution Multi-Agent —
+a LangGraph multi-agent system with a Streamlit interface that automates
+collaboration for IT-solution providers to reduce coordination cost.
+
+🧰 Tech
+
+Python LangGraph LangChain OpenAI Streamlit Pydantic scikit-learn Pandas
